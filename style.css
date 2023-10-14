@@ -1,0 +1,9 @@
+h1 {
+    color:rgba(215, 9, 215, 0.532);
+}
+.h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
